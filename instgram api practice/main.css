@@ -1,0 +1,49 @@
+body{
+    font-family: 'Hind', sans-serif;
+
+    
+}
+
+.header-container img{
+    height: 50px;
+    width: 50px;
+    margin: 50px 20% 0px 0px; 
+    border-radius: 10px;
+}
+
+.main-content{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main-header{
+    text-align: center;
+    margin: auto;
+    padding-left:150px;
+    color: lightgray;
+}
+.header-container{
+    background-image:linear-gradient(to bottom,#1c5380 ,#517fa4);
+    height: 150px;
+    margin: auto;
+    display: flex;
+}
+
+.post-photo{
+    height: 550px;
+    width: 550px;
+    display: block;
+    margin-left: 25%;
+    margin-right: auto;
+}
+.followers{
+    margin-left: 25%;
+}
+p, a{
+    margin-left: 25%;
+    color: #000;    
+}
+
+a:hover{
+    color: #1c5380;
+}
